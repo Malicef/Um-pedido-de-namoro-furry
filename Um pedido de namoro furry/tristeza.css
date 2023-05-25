@@ -1,0 +1,23 @@
+
+body{
+
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+
+}
+
+#container{
+
+    display: block;
+    width: 400px;
+    margin: auto;
+
+}
+
+
+h1{
+
+    font-size: 30px;
+    text-align: center;
+    
+}
